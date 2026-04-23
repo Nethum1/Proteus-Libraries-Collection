@@ -29,3 +29,13 @@
 - [Author](#-author)
 
 ---
+## 🧠 About This Repository
+
+This repository is a growing collection of **custom Proteus ISIS/ARES libraries** — including schematic symbols, PCB footprints, and SPICE simulation models — assembled and maintained for use in electronics design and embedded systems projects.
+
+Whether you're prototyping a microcontroller circuit, designing a power supply, or building a sensor interface, these libraries are designed to **save time** and **improve simulation accuracy** inside Proteus Design Suite.
+
+> **Why this repo?**  
+> Official Proteus libraries don't always include the latest ICs, sensors, and modules. This collection fills that gap with community-tested, project-ready parts.
+
+---
