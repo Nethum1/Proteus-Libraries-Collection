@@ -12,3 +12,20 @@
 *Built for engineers, students, and hobbyists who want ready-to-use, accurate component models.*
 
 </div>
+---
+
+## 📖 Table of Contents
+
+- [About This Repository](#-about-this-repository)
+- [What's Inside](#-whats-inside)
+- [Getting Started](#-getting-started)
+- [How to Install Libraries](#-how-to-install-libraries)
+- [Library Structure](#-library-structure)
+- [Component Categories](#-component-categories)
+- [Usage Guide](#-usage-guide)
+- [Contributing](#-contributing)
+- [Notes & Tips](#-notes--tips)
+- [License](#-license)
+- [Author](#-author)
+
+---
