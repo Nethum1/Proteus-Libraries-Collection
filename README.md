@@ -69,3 +69,19 @@ git clone https://github.com/YOUR_USERNAME/proteus-libraries.git
 Or click the green **`Code`** button → **Download ZIP** and extract it.
 
 ---
+
+## 🛠️ How to Install Libraries
+
+Follow these steps carefully to add libraries to Proteus:
+
+### Method 1 — Manual Copy (Recommended)
+
+1. **Copy** the `.LIB`, `.MDF`, or `.SDF` files from this repo.
+2. **Paste** them into your Proteus library folder:
+   ```
+   C:\ProgramData\Labcenter Electronics\Proteus X Professional\LIBRARY\
+   ```
+   > ⚠️ The path may vary depending on your Proteus version and Windows installation.
+
+3. **Restart Proteus** — the new components will now appear in the device library picker.
+
