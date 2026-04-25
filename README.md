@@ -39,3 +39,13 @@ Whether you're prototyping a microcontroller circuit, designing a power supply, 
 > Official Proteus libraries don't always include the latest ICs, sensors, and modules. This collection fills that gap with community-tested, project-ready parts.
 
 ---
+## 📦 What's Inside
+
+| File Type | Extension | Description |
+|-----------|-----------|-------------|
+| Schematic Symbol Library | `.LIB` | Component symbols for ISIS schematic editor |
+| PCB Footprint Library | `.LIB` | Land patterns for ARES PCB layout |
+| SPICE Models | `.MDF` / `.SDF` | Simulation data for accurate circuit behavior |
+| Shape Library | `.SF` | Custom 3D or 2D component shapes |
+
+---
