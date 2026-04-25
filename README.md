@@ -49,3 +49,23 @@ Whether you're prototyping a microcontroller circuit, designing a power supply, 
 | Shape Library | `.SF` | Custom 3D or 2D component shapes |
 
 ---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Before using these libraries, make sure you have:
+
+- ✅ **Proteus Design Suite** (v7.x, v8.x, or newer) installed
+- ✅ Basic understanding of Proteus Library Manager
+- ✅ Git installed (to clone this repo) — *or* download as ZIP
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/proteus-libraries.git
+```
+
+Or click the green **`Code`** button → **Download ZIP** and extract it.
+
+---
