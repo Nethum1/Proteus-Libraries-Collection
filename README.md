@@ -92,3 +92,13 @@ Follow these steps carefully to add libraries to Proteus:
 3. Click **Library Manager**.
 4. Select **Add/Remove Library Files**.
 5. Browse to the `.LIB` files from this repository and add them.
+
+### Method 3 — Append to Existing Library
+
+If you want to merge components into an existing `.LIB` file:
+
+1. Open **Library Manager** in ISIS.
+2. Select the target library.
+3. Use **Import** to pull in components from the new `.LIB` file.
+
+---
