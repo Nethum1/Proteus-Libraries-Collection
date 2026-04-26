@@ -85,3 +85,10 @@ Follow these steps carefully to add libraries to Proteus:
 
 3. **Restart Proteus** — the new components will now appear in the device library picker.
 
+### Method 2 — Library Manager (ISIS)
+
+1. Open **Proteus ISIS**.
+2. Go to **Library → Pick Devices/Symbol**.
+3. Click **Library Manager**.
+4. Select **Add/Remove Library Files**.
+5. Browse to the `.LIB` files from this repository and add them.
