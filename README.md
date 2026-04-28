@@ -144,3 +144,34 @@ proteus-libraries/
 > 📌 *Structure may evolve as more libraries are added. Each folder contains a brief description file listing included components.*
 
 ---
+## 🗂️ Component Categories
+
+### 🔵 Microcontrollers & Dev Boards
+- STM32 series (F0, F1, F4)
+- ESP8266 / ESP32
+- Arduino-compatible boards
+- Custom ATmega variants
+
+### 🟢 Sensors
+- Temperature & Humidity (DHT11, DHT22, SHT31)
+- IMU / Gyroscope (MPU6050, MPU9250)
+- Proximity & Ultrasonic (HC-SR04)
+- IR sensors and encoders
+
+### 🟡 Communication Modules
+- Bluetooth (HC-05, HC-06)
+- Wi-Fi (ESP modules)
+- GSM/GPRS (SIM800L, SIM900)
+- RF (NRF24L01, LoRa modules)
+
+### 🔴 Power Components
+- LDO regulators (AMS1117, L7805)
+- Buck/Boost converters
+- MOSFET drivers
+
+### 🟣 Displays
+- OLED (0.96", 1.3" SSD1306)
+- I2C/SPI LCD modules
+- TFT color displays
+
+---
