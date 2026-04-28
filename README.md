@@ -102,3 +102,45 @@ If you want to merge components into an existing `.LIB` file:
 3. Use **Import** to pull in components from the new `.LIB` file.
 
 ---
+
+## 📁 Library Structure
+
+```
+proteus-libraries/
+│
+├── 📂 Microcontrollers/
+│   ├── STM32_Series.LIB
+│   ├── ESP8266_ESP32.LIB
+│   └── ATmega_Custom.LIB
+│
+├── 📂 Sensors/
+│   ├── DHT11_DHT22.LIB
+│   ├── MPU6050.LIB
+│   └── Ultrasonic_HC-SR04.LIB
+│
+├── 📂 Communication_Modules/
+│   ├── Bluetooth_HC05.LIB
+│   ├── NRF24L01.LIB
+│   └── SIM800L_GSM.LIB
+│
+├── 📂 Power_Components/
+│   ├── Voltage_Regulators.LIB
+│   └── MOSFET_Drivers.LIB
+│
+├── 📂 Displays/
+│   ├── OLED_SSD1306.LIB
+│   ├── LCD_Custom.LIB
+│   └── TFT_Modules.LIB
+│
+├── 📂 Passive_Components/
+│   └── Custom_Passives.LIB
+│
+├── 📂 PCB_Footprints/
+│   └── Custom_Footprints.LIB
+│
+└── README.md
+```
+
+> 📌 *Structure may evolve as more libraries are added. Each folder contains a brief description file listing included components.*
+
+---
