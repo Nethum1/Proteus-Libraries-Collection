@@ -147,7 +147,6 @@ proteus-libraries/
 ## 🗂️ Component Categories
 
 ### 🔵 Microcontrollers & Dev Boards
-- STM32 series (F0, F1, F4)
 - ESP8266 / ESP32
 - Arduino-compatible boards
 - Custom ATmega variants
