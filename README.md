@@ -174,3 +174,22 @@ proteus-libraries/
 - TFT color displays
 
 ---
+## 📐 Usage Guide
+
+Once libraries are installed, you can use them in Proteus as follows:
+
+### In ISIS (Schematic):
+1. Press **`P`** to open the Parts Picker.
+2. Search by component name (e.g., `MPU6050`, `ESP32`).
+3. Place it on your schematic as usual.
+
+### In ARES (PCB Layout):
+1. After annotating your schematic, transfer to ARES.
+2. Custom footprints from `.LIB` files will map automatically.
+3. If a footprint is missing, manually assign from **Library → Set Package**.
+
+### Simulation:
+- Components with `.MDF`/`.SDF` models support **real-time simulation**.
+- Make sure model files are in the same `LIBRARY` directory.
+
+---
