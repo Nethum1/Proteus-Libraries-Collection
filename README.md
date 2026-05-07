@@ -193,3 +193,17 @@ Once libraries are installed, you can use them in Proteus as follows:
 - Make sure model files are in the same `LIBRARY` directory.
 
 ---
+
+## 💡 Notes & Tips
+
+> 🔹 **Proteus version matters** — some `.LIB` files created in newer versions may not open in older ones. Check compatibility.
+
+> 🔹 **Backup your original LIBRARY folder** before adding new files to avoid corrupting existing libraries.
+
+> 🔹 **Simulation accuracy** depends on SPICE model quality. Always verify simulation results against a datasheet.
+
+> 🔹 If a component shows up in schematic but **not in simulation**, it likely lacks a SPICE model (`.MDF`/`.SDF`).
+
+> 🔹 For **ESP32/ESP8266**, Proteus 8.9+ is recommended for best support.
+
+---
