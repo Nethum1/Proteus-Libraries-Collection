@@ -207,3 +207,8 @@ Once libraries are installed, you can use them in Proteus as follows:
 > 🔹 For **ESP32/ESP8266**, Proteus 8.9+ is recommended for best support.
 
 ---
+
+
+*If this helped your project, consider giving the repo a ⭐ — it means a lot!*
+
+</div>
